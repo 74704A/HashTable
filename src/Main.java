@@ -2,9 +2,10 @@ import java.util.Iterator;
 import java.util.Random;
 
 public class Main {
+    
     static String[] studentType = {"Undergraduate", "Graduate", "PhD"};
-    static String[] firstNames = {"John", "Michael", "William", "David", "James", "Joseph", "Daniel", "Matthew", "Robert", "Thomas"};
-    static String[] lastNames = {"Smith", "Johnson", "Williams", "Brown", "Jones", "Garcia", "Miller", "Davis", "Rodriguez", "Martinez"};
+    static String[] firstNames = {"Emily", "Sophia", "Ethan", "Olivia", "Noah", "Ava", "Liam", "Emma", "Mia", "Lucas", "Thomas"};
+    static String[] lastNames = {"Anderson", "Wilson", "Clark", "Roberts", "Cook", "Mitchell", "Bell", "Ward", "Turner", "Parker"};
 
     public static void main(String[] args) {
 
